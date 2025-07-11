@@ -17,4 +17,6 @@ pkg install tor -y
 pip install requests mechanize bs4 colorama rich
 pip install --upgrade pip
 gem install lolcat
-git clone
+git clone https://github.com/bilyyZ1/toolsv1.git
+cd toolsv1
+python toolsv1.py
